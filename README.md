@@ -11,8 +11,8 @@ A Java program to download email attachments based on a specific subject from gm
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/wadimxyz/gmail-attachment-downloader.git
-   cd IMAPAttachmentDownloader
+   git clone https://github.com/wadimxyz/GMAILAttachmentDownloader.git
+   cd GMAILAttachmentDownloader
    ```
 
 2. Configure your email settings in `src/main/resources/config.properties`.
